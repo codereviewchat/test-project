@@ -1,0 +1,8 @@
+  # The URL to follow when the user clicks the badge
+- url: "https://codereviewchat.atlassian.net/browse/$branchSuffix"
+
+  # The label in front of the prefix
+  label: "CRC"
+
+  # The background color of the badge in hex format (without #)
+  color: "0052CC"
